@@ -7,3 +7,5 @@ study
 sleep
 new todo
 implementation
+Edit 
+Cleaning
