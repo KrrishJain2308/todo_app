@@ -1,11 +1,10 @@
-ab
-cd
 optimize code
-wash dishes
 bath
 study
 sleep
 new todo
-implementation
 Edit 
 Cleaning
+AB
+CD
+Implementation
